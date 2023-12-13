@@ -1,4 +1,4 @@
-# apptest
+# Maps Project
 
 A new Flutter project.
 
